@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-1CDhs_7LPw))
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://results-summary-component-sable-seven.vercel.app/))
 
 
 ### Built with
@@ -77,7 +77,7 @@ I learned how to use media queries to create a website that looks good on all sc
 
 ### Continued development
 
-I will like to focus more on devloping my skills in CSS grid and flexbox as well as Responsive Web Development
+I will like to focus more on developing my skills in CSS grid and flexbox as well as Responsive Web Development
 
 
 ## Author
