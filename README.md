@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-1CDhs_7LPw))
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://results-summary-component-sable-seven.vercel.app/))
+- Solution URL: [(https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-1CDhs_7LPw)]
+- Live Site URL: [(https://results-summary-component-sable-seven.vercel.app/)]
 
 
 ### Built with
