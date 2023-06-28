@@ -82,7 +82,7 @@ I will like to focus more on devloping my skills in CSS grid and flexbox as well
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Birdie13-stack](https://www.frontendmentor.io/profile/Birdie13-stack)
 - Twitter - [@thatbirdintech](https://www.twitter.com/thatbirdintech)
 
 # Results-summary-component
